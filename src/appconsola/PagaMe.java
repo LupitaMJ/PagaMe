@@ -1,4 +1,10 @@
-
+/*
+*  ITESS-TICS
+*  TINV 1
+*  Agsoto-Diciembre 2022
+*  Proyecto: PageMe
+*  TI-701 Lupita-Adilene
+*/
 package appconsola;
 
 import pagame.domain.*;
